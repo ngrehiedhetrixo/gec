@@ -6,13 +6,13 @@
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyBuTXcFOYSGOeo--ehbbHdGDVTNkztA4TU",
-  authDomain: "lamarinchess.firebaseapp.com",
-  projectId: "lamarinchess",
-  storageBucket: "lamarinchess.firebasestorage.app",
-  messagingSenderId: "656332896462",
-  appId: "1:656332896462:web:b6218953885a6e69eeb89f",
-  measurementId: "G-RZHN58QMV3"
+  apiKey: "AIzaSyAd8J5i4_U0KCjSu-U-LJp0qZllPJK5hnE",
+  authDomain: "chessviewerpro.firebaseapp.com",
+  projectId: "chessviewerpro",
+  storageBucket: "chessviewerpro.firebasestorage.app",
+  messagingSenderId: "630366142019",
+  appId: "1:630366142019:web:5debd8737ca8af8b54def6",
+  measurementId: "G-68G3GSF8M9"
 };
 
 // Initialize Firebase
